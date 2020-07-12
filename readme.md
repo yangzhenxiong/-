@@ -15,6 +15,6 @@
 
 ## week6
 
-- [作业](../homework.md)
-- [总结](../sumary.md)
+- [作业](week6/homework.md)
+- [总结](week6/sumary.md)
 
