@@ -18,3 +18,7 @@
 - [作业](week6/homework.md)
 - [总结](week6/summary.md)
 
+## Week7
+
+- [作业](week7/homework.md)
+- [总结](week7/summary.md)
