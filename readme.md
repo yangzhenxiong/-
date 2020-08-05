@@ -22,3 +22,15 @@
 
 - [作业](week7/homework.md)
 - [总结](week7/summary.md)
+
+## Week8
+
+- [作业](week7/homework.md)
+- [总结](week7/summary.md)
+
+## Week9
+
+- [作业](week9/homework.md)
+- [总结](week9/summary.md)
+
+## Week10
